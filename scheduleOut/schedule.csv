@@ -1,0 +1,11 @@
+Target,Start Time (UTC),End Time (UTC),Duration (Minutes),RA,Dec,Tags
+Unused Time,2023-07-06 04:00:00,2023-07-06 07:22:00,202.0,,,
+Focus,2023-07-06 07:22:00,2023-07-06 07:27:00,5.0,0.0,0.0,"{'object': 'Focus', 'type': 'Focus', 'duration': 300}"
+P21GGRT_1,2023-07-06 07:27:00,2023-07-06 07:57:00,30.0,327.948,7.8896,"{'object': 'P21GGRT_1', 'type': 'MPC NEO', 'duration': 1800.0, 'candidate': Candidate P21GGRT (MPC NEO)}"
+Unused Time,2023-07-06 07:57:00,2023-07-06 07:58:00,1.0,,,
+Focus,2023-07-06 08:02:00,2023-07-06 08:07:00,5.0,0.0,0.0,"{'object': 'Focus', 'type': 'Focus', 'duration': 300}"
+P21GGRT_2,2023-07-06 08:07:00,2023-07-06 08:37:00,30.0,327.948,7.8896,"{'object': 'P21GGRT_2', 'type': 'MPC NEO', 'duration': 1800.0, 'candidate': Candidate P21GGRT (MPC NEO)}"
+P21GJLK_1,2023-07-06 08:41:00,2023-07-06 09:11:00,30.0,337.6185,10.6348,"{'object': 'P21GJLK_1', 'type': 'MPC NEO', 'duration': 1800.0, 'candidate': Candidate P21GJLK (MPC NEO)}"
+Focus,2023-07-06 09:15:00,2023-07-06 09:20:00,5.0,0.0,0.0,"{'object': 'Focus', 'type': 'Focus', 'duration': 300}"
+P21GJLK_2,2023-07-06 09:20:00,2023-07-06 09:50:00,30.0,337.6185,10.6348,"{'object': 'P21GJLK_2', 'type': 'MPC NEO', 'duration': 1800.0, 'candidate': Candidate P21GJLK (MPC NEO)}"
+Unused Time,2023-07-06 09:50:00,2023-07-06 11:40:00,110.0,,,
